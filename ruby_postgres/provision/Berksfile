@@ -1,0 +1,12 @@
+site :opscode
+#metadata
+
+cookbook 'postgresql'
+#cookbook 'nodejs'
+
+#cookbook 'npm'
+
+#cookbook 'mysql'
+
+
+#cookbook 'nodejs', site: 'https://github.com/mdxp/nodejs-cookbook.git'
