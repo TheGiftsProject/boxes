@@ -1,4 +1,4 @@
-Ruby + Postgres dev box
+Ruby/NodeJS + Postgres dev box
 ===
 This is a Ubuntu lucid32 based box(i.e Ubuntu 10.04)
 This box includes the following:
