@@ -1,4 +1,4 @@
-Ruby/NodeJS + Postgres dev box
+Ruby/NodeJS + MySql dev box
 ===
 This is a Ubuntu lucid32 based box(i.e Ubuntu 10.04)
 This box includes the following:
@@ -8,4 +8,4 @@ This box includes the following:
 - bower v1.2.7
 - npm v1.3.14
 - zsh+oh-my-zsh with the git plugin installed
-- postgres v9.3.1
+- mysql 14.14
