@@ -23,7 +23,6 @@ Requirements
 
 Using
 ===
-- Make sure you first have the latest version of
 - clone the repo
 - copy the machine you like to your project folder:
 ```
