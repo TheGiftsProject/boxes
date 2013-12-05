@@ -26,7 +26,7 @@ Using
 - clone the repo
 - copy the machine you like to your project folder:
 ```
-cp -r boxes/ruby_node_postgres my_project
+cp -R -H -L boxes/ruby_node_postgres/ my_project
 ```
 - some project require you to first go to the provision
 folder and install the berks recipes:
